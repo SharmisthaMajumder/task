@@ -7,4 +7,4 @@ TIPS for GITHUB:
 In Git, if you wish to merge two files into a single one (Say, they are under two different branches), 
 then simply apply Pull request
 
-In Git, if you wish to contribute in someone else's work, then use Fork
+In Git, if you wish to contribute in someone else's work, then use Fork. And use Pull command then.
